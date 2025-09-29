@@ -25,7 +25,7 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
 
 ```bash
 git clone https://github.com/dennishilk/SPDIF-Fix-Tool.git
-cd <repo-name>
+cd SPDIF-Fix-Tool
 chmod +x spdif-fix.sh
 ./spdif-fix.sh
 
