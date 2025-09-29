@@ -19,6 +19,10 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
 
 -   <a href="https://www.buymeacoffee.com/dennishilk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+<img src="https://github.com/user-attachments/assets/949cea9e-5091-43ab-a1a7-47293b431445" width="30%"></img>
+<img src="https://github.com/user-attachments/assets/49ced659-eb08-4c5d-a340-03e83b575c8f" width="30%"></img>
+<img src="https://github.com/user-attachments/assets/6913d7b7-7293-4d2b-9d52-f64ac7a7b93d" width="30%"></img> 
+
 ---
 
 ## 🚀 Installation
@@ -32,10 +36,4 @@ chmod +x spdif-fix.sh
 1 - fix
 2 - undo
 3 - close
-
-![Image](https://github.com/user-attachments/assets/0fc17b57-e71d-46c3-ab5d-29545a13e767)
-![fix](https://github.com/user-attachments/assets/5a13e96f-c15c-4c36-852a-5a5a7ab5dd50)
-![unfix](https://github.com/user-attachments/assets/35c3506d-261e-482b-9173-f99000ad5a40)
-
-
 
