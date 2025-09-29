@@ -15,7 +15,9 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
   - ALSA (creates `.asoundrc` for SPDIF keepalive)
 - Interactive menu with progress indicators  
 - Automatically restarts PulseAudio / PipeWire  
-- Backup & restore of original configuration  
+- Backup & restore of original configuration
+
+-   <a href="https://www.buymeacoffee.com/dennishilk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
@@ -26,3 +28,5 @@ git clone https://github.com/dennishilk/SPDIF-Fix-Tool.git
 cd <repo-name>
 chmod +x spdif-fix.sh
 ./spdif-fix.sh
+
+
