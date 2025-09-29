@@ -29,7 +29,7 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
 
 ```bash
 git clone https://github.com/dennishilk/SPDIF-Fix-Tool.git
-cd SPDIF-Fix-Tool
+cd spdif-fix
 chmod +x spdif-fix.sh
 ./spdif-fix.sh
 
