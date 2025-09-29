@@ -29,4 +29,8 @@ cd SPDIF-Fix-Tool
 chmod +x spdif-fix.sh
 ./spdif-fix.sh
 
+1 - fix
+2 - undo
+3 - close
+
 
