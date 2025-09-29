@@ -33,4 +33,9 @@ chmod +x spdif-fix.sh
 2 - undo
 3 - close
 
+![Image](https://github.com/user-attachments/assets/0fc17b57-e71d-46c3-ab5d-29545a13e767)
+![fix](https://github.com/user-attachments/assets/5a13e96f-c15c-4c36-852a-5a5a7ab5dd50)
+![unfix](https://github.com/user-attachments/assets/35c3506d-261e-482b-9173-f99000ad5a40)
+
+
 
