@@ -17,6 +17,11 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
 - Automatically restarts PulseAudio / PipeWire  
 - Backup & restore of original configuration
 
+- if spdif-fix didnt work for you, you can add the file "soundfixforautostart"
+  to an folder make it executeable " chmod +x and at it to autostart.
+  What it does: It generates and plays a sine wave tone (default ~440 Hz) in stereo,
+  but with the gain reduced so much that it’s effectively silent.
+
 -   <a href="https://www.buymeacoffee.com/dennishilk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <img src="https://github.com/user-attachments/assets/949cea9e-5091-43ab-a1a7-47293b431445" width="30%"></img>
