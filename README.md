@@ -19,6 +19,7 @@ Supports **PulseAudio**, **PipeWire**, and **ALSA**.
 
 - if spdif-fix didnt work for you, you can add the file "soundfixforautostart"
   to an folder make it executeable " chmod +x and at it to autostart.
+  you need to install sox for your system for example " sudo apt install sox " or " sudo pacman -S sox "
   What it does: It generates and plays a sine wave tone (default ~440 Hz) in stereo,
   but with the gain reduced so much that it’s effectively silent.
 
